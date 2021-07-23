@@ -1,4 +1,4 @@
-time,distance,bar_height,experiment
+time,position,bar_height,experiment
 0.033,0.192,0.166,1
 0.067,0.192,0.166,1
 0.1,0.192,0.166,1
